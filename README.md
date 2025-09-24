@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ishu17077/](https://github.com/ishu17077/)
 
-- ⚡ Fun fact I am funny ;)
+- ⚡ Fun fact: I am funny ;)
 
 - 💬 Ask me about **Flutter, Golang, Node.js etc**
 
