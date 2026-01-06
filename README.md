@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Srayash Raj</h1>
+<h1 align="center">Hi, I'm Srayash Raj</h1>
 <h3 align="center">Backend Developer, Mobile Developer, System Designer</h3>
 
 <p align="left"> <a href="https://github.com/ishu17077/ishu17077"><img src="https://github-profile-trophy.vercel.app/?username=ishu17077" alt="ishu17077" /></a> </p>
