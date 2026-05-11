@@ -65,6 +65,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
@@ -83,8 +84,7 @@
 ## 🚀 Featured Projects
 
 - 🔒 **[SecuChat](https://github.com/ishu17077/SecuChat)** — Secure chat application
-- 🌲 **[Fire Spread Analyzer](https://github.com/ishu17077/fire_project)** — Fire spread analysis project
-- 🧠 **[ConvulationML](https://github.com/ishu17077/ConvulationML)** — CNN / deep learning experiments
+- 🧩 **[code_runner_backend](https://github.com/ishu17077/code_runner_backend)** — Backend service for running code securely
 
 ---
 
