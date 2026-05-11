@@ -9,10 +9,10 @@
 
 <p align="center">
   <a href="mailto:devsrayash@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-devsrayash%40gmail.com-blue?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://linkedin.com/in/srayash-raj" target="_blank" rel="noreferrer" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-srayash--raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/ishu_kumar404" target="_blank" rel="noreferrer" title="Instagram"><img src="https://img.shields.io/badge/Instagram-ishu__kumar404-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/devsrayash" target="_blank" rel="noreferrer" title="HackerRank"><img src="https://img.shields.io/badge/HackerRank-devsrayash-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://www.leetcode.com/ishu17077" target="_blank" rel="noreferrer" title="LeetCode"><img src="https://img.shields.io/badge/LeetCode-ishu17077-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://linkedin.com/in/srayash-raj" target="_blank" rel="noreferrer" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-srayash--raj-0A66C2?style=for-the-badge&logo=linke[...]
+  <a href="https://instagram.com/ishu_kumar404" target="_blank" rel="noreferrer" title="Instagram"><img src="https://img.shields.io/badge/Instagram-ishu__kumar404-E4405F?style=for-the-badge&logo=i[...]
+  <a href="https://www.hackerrank.com/devsrayash" target="_blank" rel="noreferrer" title="HackerRank"><img src="https://img.shields.io/badge/HackerRank-devsrayash-2EC866?style=for-the-badge&logo=h[...]
+  <a href="https://www.leetcode.com/ishu17077" target="_blank" rel="noreferrer" title="LeetCode"><img src="https://img.shields.io/badge/LeetCode-ishu17077-FFA116?style=for-the-badge&logo=leetcode&[...]
 </p>
 
 ---
@@ -65,6 +65,8 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
