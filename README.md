@@ -11,7 +11,7 @@
   <a href="mailto:devsrayash@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-devsrayash%40gmail.com-blue?style=for-the-badge&logo=gmail" /></a>
   <a href="https://linkedin.com/in/srayash-raj" target="_blank" rel="noreferrer" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-srayash--raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/ishu_kumar404" target="_blank" rel="noreferrer" title="Instagram"><img src="https://img.shields.io/badge/Instagram-ishu__kumar404-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/devsrayash" target="_blank" rel="noreferrer" title="HackerRank"><img src="https://img.shields.io/badge/HackerRank-devsrayash-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/srayash_raj" target="_blank" rel="noreferrer" title="HackerRank"><img src="https://img.shields.io/badge/HackerRank-srayash_raj-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
   <a href="https://www.leetcode.com/ishu17077" target="_blank" rel="noreferrer" title="LeetCode"><img src="https://img.shields.io/badge/LeetCode-ishu17077-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
