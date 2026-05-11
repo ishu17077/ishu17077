@@ -81,12 +81,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishu17077&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishu17077&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ishu17077&show_icons=true&theme=vue-dark" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishu17077&layout=compact&theme=vue-dark" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishu17077&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishu17077&theme=vue-dark" alt="GitHub Streak" />
 </p>
 
 ---
@@ -94,7 +94,7 @@
 ## 📊 Simple Commit Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishu17077&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Commit Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ishu17077&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark" alt="Commit Stats" />
 </p>
 
 <p align="center"><b>Please feel free to browse my repositories.</b></p>
