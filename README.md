@@ -83,12 +83,13 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishu17077&show_icons=true&theme=vue-dark" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishu17077&layout=compact&theme=vue-dark" alt="Top Languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishu17077&theme=holi&name=Lone+Wolf" alt="GitHub Stats" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishu17077&theme=holi" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishu17077&theme=vue-dark" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishu17077&theme=holi" alt="GitHub Stats 2" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ishu17077&theme=holi&utcOffset=0" alt="GitHub Streak" />
 </p>
 
 ---
