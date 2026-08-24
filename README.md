@@ -2,6 +2,7 @@
 <h3 align="center">Backend • Frontend • Mobile • DevOps</h3>
 
 <p align="center">
+  <img src="https://readme-stats-github.pages.dev/api/typing?lines=Do%20what%20you%20can't.&theme=dark&color=%233a4c59&particleColor=%23ffffff&background=%230d1117" alt="Do what you can't">
   <a href="https://github.com/ishu17077/ishu17077">
     <img src="https://nirzak-trophies.vercel.app/?username=ishu17077&theme=onestar&margin-w=10&row=1&column=6" alt="ishu17077" />
   </a>
