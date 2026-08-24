@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/ishu17077/ishu17077">
-    <img src="https://github-profile-trophy.vercel.app/?username=ishu17077&theme=onestar&margin-w=10&row=1&column=6" alt="ishu17077" />
+    <img src="https://nirzak-trophies.vercel.app/?username=ishu17077&theme=onestar&margin-w=10&row=1&column=6" alt="ishu17077" />
   </a>
 </p>
 
